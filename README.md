@@ -1,11 +1,7 @@
 <div align="center">
 
-<img align="left" alt="Data Scientist Animation" width="120" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 # **PRATHAMESH JUMLE**
 ## Data Analyst | Transforming Data into Strategic Business Insights
-
-<br clear="left"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=📊+Passionate+Data+Storyteller;🚀+Business+Intelligence+Expert;💡+Turning+Data+into+Decisions;🎯+Advanced+Analytics+Specialist" alt="Typing SVG" />
 
