@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://www.google.com/search?q=https://github.com/prathameshjumle">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/prathameshjumle/prathameshjumle/main/Header.png" alt="Hi, I'm Prathamesh Jumle - Data Analyst"/>
+<!-- You can add your banner image here if you have one -->
+<!-- Example: <img src="./assets/Header.png" alt="Hi, I'm Prathamesh Jumle - Data Analyst"/> -->
 </a>
 </p>
 
@@ -58,18 +59,3 @@ These stats automatically update to reflect my activity on GitHub.
 <img src="https://www.google.com/search?q=https://img.shields.io/github/stars/prathameshjumle%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26label%3DStars" alt="GitHub Stars"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/github/languages/top/prathameshjumle%3Fstyle%3Dfor-the-badge" alt="Top Language"/>
 </p>
-
-<!--
-**prathameshjumle/prathameshjumle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
