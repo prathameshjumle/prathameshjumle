@@ -1,11 +1,9 @@
 <div align="center">
 
-![Data Analyst Logo](data_analyst_logo.png)
-
 # **PRATHAMESH JUMLE**
 ## Data Analyst | Transforming Data into Strategic Business Insights
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=📊+Passionate+Data+Storyteller;🚀+Business+Intelligence+Expert;💡+Turning+Data+into+Decisions;🎯+Advanced+Analytics+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=📊+Passionate+Data+Storyteller;🚀+Business+Intelligence+Expert;💡+Turning+Data+into+Decisions;🎯+Advanced+Analytics+Specialist" alt="Typing SVG" />
 
 </div>
 
@@ -20,7 +18,7 @@
 
 ## 👨💻 **About Me**
 
-<img align="right" alt="Data Analytics GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Modern Data Science Animation" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/src/coding.gif">
 
 Hello! I'm **Prathamesh Jumle**, a dedicated Data Analyst who believes in the power of data to transform businesses. I specialize in translating raw data into actionable insights through advanced analytics, interactive dashboards, and strategic data storytelling. My approach combines technical expertise with business acumen to deliver solutions that make a real impact.
 
@@ -38,6 +36,10 @@ Hello! I'm **Prathamesh Jumle**, a dedicated Data Analyst who believes in the po
 
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ### **Core Competencies:**
 - **📊 Data Analysis & Visualization** - Expert in creating compelling dashboards and reports
 - **🧠 Business Intelligence** - Translating data insights into strategic recommendations  
@@ -48,6 +50,7 @@ Hello! I'm **Prathamesh Jumle**, a dedicated Data Analyst who believes in the po
 ## 🚀 **Featured Projects**
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🏦 **Mitron Bank Credit Card Launch Strategy**
 
@@ -72,6 +75,7 @@ The final recommendation for a two-card approach is a direct result of patterns 
 ---
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🚗 **Excel Road Accident Analysis Dashboard**
 
@@ -114,7 +118,7 @@ Delivered actionable insights to inform potential safety improvements and public
 
 ## 🌱 **Continuous Learning Journey**
 
-<img align="left" alt="Learning GIF" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="left" alt="Learning Data Science" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 I'm constantly expanding my skill set and staying current with the latest trends in data analytics:
 
@@ -124,6 +128,10 @@ I'm constantly expanding my skill set and staying current with the latest trends
 - **🤖 Machine Learning Applications** - Integrating ML insights into business analytics
 
 <br clear="left"/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🤝 **Let's Connect & Collaborate**
 
@@ -135,12 +143,12 @@ I'm constantly expanding my skill set and staying current with the latest trends
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-jumle-1ba156208/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathameshjumle)
 
-<img src="https://komarev.com/ghpvc/?username=prathameshjumle&style=for-the-badge&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=prathameshjumle&style=for-the-badge&color=00D9FF" alt="Profile Views" />
 
 ### 💼 **Open to Opportunities**
 **Data Analyst Positions | Business Intelligence Roles | Freelance Projects**
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100">
 
 ***"Turning data into decisions, insights into impact"*** 📊✨
 
