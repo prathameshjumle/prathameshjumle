@@ -1,20 +1,15 @@
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/prathameshjumle">
-<!-- You can add your banner image here if you have one -->
-<!-- Example: <img src="./assets/Header.png" alt="Hi, I'm Prathamesh Jumle - Data Analyst"/> -->
-</a>
-</p>
-
 <h1 align="center">Hi, I'm Prathamesh Jumle 👋</h1>
 
-I am a Data Analyst based in Pune, India, with a passion for transforming complex datasets into clear, actionable insights. I specialize in building interactive dashboards and telling compelling stories with data to drive business growth.
+<p align="center">
+<em>I am a Data Analyst based in Pune, India, with a passion for transforming complex datasets into clear, actionable insights. I specialize in building interactive dashboards and telling compelling stories with data to drive business growth.</em>
+</p>
 
 🔗 Let's Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/prathamesh-jumle-1ba156208/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="mailto:prathameshjumle@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
