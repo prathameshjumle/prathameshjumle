@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="left" alt="Data Analyst Illustration" width="120" src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/main/images/data-analytics.gif">
+<img align="left" alt="Data Scientist Animation" width="120" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 # **PRATHAMESH JUMLE**
 ## Data Analyst | Transforming Data into Strategic Business Insights
